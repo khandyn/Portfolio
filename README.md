@@ -5,7 +5,7 @@ Final Year Telecom Engineering || 5G Core || Telecom / Private Cloud(Kubernetes)
 ## About Me
 
 I am a final-year Telecommunications Engineering student with a strong focus on modern telecom systems, private cloud infrastructure, network security and automation.
-I am particularly interested in how 5G core networks, virtualization and cloud-native sytems( like Kubernetes) are transforming modern communication infrastructure.
+I am particularly interested in how 5G core networks, virtualization and cloud-native sytems(like Kubernetes) are transforming modern communication infrastructure.
 
 
 ## Skills 
