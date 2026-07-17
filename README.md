@@ -39,4 +39,4 @@ Projects will be added here as they are developed.
 
 ## Contact
 
-GitHub: https://github.com/khandyn
+GitHub: https://github.com/kak-andrs
